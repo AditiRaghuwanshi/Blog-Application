@@ -1,2 +1,6 @@
 # Blog-Application
-A Blog Application including recent daily news and weather updates 
+A Blog Application including recent daily news and weather updates
+
+
+
+
